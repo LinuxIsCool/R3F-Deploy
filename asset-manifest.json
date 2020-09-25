@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/R3F-Deploy/static/css/main.5f361e03.chunk.css",
+    "main.js": "/R3F-Deploy/static/js/main.27c11bf2.chunk.js",
+    "main.js.map": "/R3F-Deploy/static/js/main.27c11bf2.chunk.js.map",
+    "runtime-main.js": "/R3F-Deploy/static/js/runtime-main.54108218.js",
+    "runtime-main.js.map": "/R3F-Deploy/static/js/runtime-main.54108218.js.map",
+    "static/js/2.a0c31166.chunk.js": "/R3F-Deploy/static/js/2.a0c31166.chunk.js",
+    "static/js/2.a0c31166.chunk.js.map": "/R3F-Deploy/static/js/2.a0c31166.chunk.js.map",
+    "index.html": "/R3F-Deploy/index.html",
+    "precache-manifest.88e2803e4faf3148e04ba75bd69a61d9.js": "/R3F-Deploy/precache-manifest.88e2803e4faf3148e04ba75bd69a61d9.js",
+    "service-worker.js": "/R3F-Deploy/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/R3F-Deploy/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a0c31166.chunk.js.LICENSE.txt": "/R3F-Deploy/static/js/2.a0c31166.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/R3F-Deploy/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54108218.js",
+    "static/js/2.a0c31166.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.27c11bf2.chunk.js"
+  ]
+}
